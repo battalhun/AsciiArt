@@ -1,4 +1,4 @@
-🎨 AsciiArt
+# 🎨 AsciiArt
 
 AsciiArt, metinleri görsel ASCII sanatına dönüştüren basit ve etkili bir uygulamadır. Kullanıcıdan alınan yazıyı karakter tabanlı sanat formatına çevirerek terminal veya konsol ortamında estetik çıktılar üretir.
 
@@ -18,7 +18,7 @@ Bu proje, hem ASCII mantığını öğrenmek isteyen geliştiriciler hem de eğl
 
 Repo içerisinde uygulamaya ait kaynak kodlar ve gerekli yapılandırma dosyaları bulunmaktadır. Proje sade bir mimariyle oluşturulmuş olup kolayca geliştirilebilir.
 
-🛠️ Kurulum
+## 🛠️ Kurulum
 
 Projeyi kendi bilgisayarında çalıştırmak için:
 
@@ -28,7 +28,7 @@ cd AsciiArt
 
 Ardından geliştirme ortamında projeyi açarak derleyebilir ve çalıştırabilirsin.
 
-▶️ Kullanım
+## ▶️ Kullanım
 
 Uygulamayı başlatın.
 
@@ -48,7 +48,7 @@ Basit ama üretken bir yazılım örneği sunmayı
 
 hedefler.
 
-🤝 Katkıda Bulunma
+## 🤝 Katkıda Bulunma
 
 Katkılar her zaman memnuniyetle karşılanır 🙂
 
@@ -60,6 +60,6 @@ Değişikliklerinizi commit edin
 
 Pull request gönderin
 
-📄 Lisans
+## 📄 Lisans
 
 Bu proje açık kaynak olarak sunulmuştur. Lisans detaylarını repository üzerinden inceleyebilirsiniz.
