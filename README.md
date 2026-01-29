@@ -1,5 +1,3 @@
-Aşağıdaki README, doğrudan projen için profesyonel ve GitHub standartlarına uygun şekilde hazırlandı. İçeriği repo’ya ekleyebilirsin.
-
 🎨 AsciiArt
 
 AsciiArt, metinleri görsel ASCII sanatına dönüştüren basit ve etkili bir uygulamadır. Kullanıcıdan alınan yazıyı karakter tabanlı sanat formatına çevirerek terminal veya konsol ortamında estetik çıktılar üretir.
