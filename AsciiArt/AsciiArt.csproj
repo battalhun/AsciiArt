@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net10.0</TargetFramework>
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>AsciiArt</PackageId>
+		<Version>1.0.3</Version>
+		<Authors>SuleymanCanbaz</Authors>
+		<Description>Simple ASCII Art generator for C#</Description>
+	</PropertyGroup>
+
+</Project>
